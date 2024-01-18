@@ -1,0 +1,7 @@
+D:\1-CODE-WITH-ME\1 ACADEMY\ADO.NET\FirstApplication\14 ForeachLoop\bin\Debug\14 ForeachLoop.exe.config
+D:\1-CODE-WITH-ME\1 ACADEMY\ADO.NET\FirstApplication\14 ForeachLoop\bin\Debug\14 ForeachLoop.exe
+D:\1-CODE-WITH-ME\1 ACADEMY\ADO.NET\FirstApplication\14 ForeachLoop\bin\Debug\14 ForeachLoop.pdb
+D:\1-CODE-WITH-ME\1 ACADEMY\ADO.NET\FirstApplication\14 ForeachLoop\obj\Debug\14 ForeachLoop.csproj.AssemblyReference.cache
+D:\1-CODE-WITH-ME\1 ACADEMY\ADO.NET\FirstApplication\14 ForeachLoop\obj\Debug\14 ForeachLoop.csproj.CoreCompileInputs.cache
+D:\1-CODE-WITH-ME\1 ACADEMY\ADO.NET\FirstApplication\14 ForeachLoop\obj\Debug\14 ForeachLoop.exe
+D:\1-CODE-WITH-ME\1 ACADEMY\ADO.NET\FirstApplication\14 ForeachLoop\obj\Debug\14 ForeachLoop.pdb

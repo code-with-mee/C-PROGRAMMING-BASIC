@@ -1,0 +1,7 @@
+D:\1-CODE-WITH-ME\1 ACADEMY\ADO.NET\FirstApplication\18 Datetime\bin\Debug\18 Datetime.exe.config
+D:\1-CODE-WITH-ME\1 ACADEMY\ADO.NET\FirstApplication\18 Datetime\bin\Debug\18 Datetime.exe
+D:\1-CODE-WITH-ME\1 ACADEMY\ADO.NET\FirstApplication\18 Datetime\bin\Debug\18 Datetime.pdb
+D:\1-CODE-WITH-ME\1 ACADEMY\ADO.NET\FirstApplication\18 Datetime\obj\Debug\18 Datetime.csproj.AssemblyReference.cache
+D:\1-CODE-WITH-ME\1 ACADEMY\ADO.NET\FirstApplication\18 Datetime\obj\Debug\18 Datetime.csproj.CoreCompileInputs.cache
+D:\1-CODE-WITH-ME\1 ACADEMY\ADO.NET\FirstApplication\18 Datetime\obj\Debug\18 Datetime.exe
+D:\1-CODE-WITH-ME\1 ACADEMY\ADO.NET\FirstApplication\18 Datetime\obj\Debug\18 Datetime.pdb
