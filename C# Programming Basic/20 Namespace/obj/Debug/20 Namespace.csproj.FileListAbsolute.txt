@@ -1,0 +1,7 @@
+D:\COMPANY\CODE-WITH-ME\Github\CSHARP-PROGRAMMING-BASIC\C# Programming Basic\20 Namespace\bin\Debug\20 Namespace.exe.config
+D:\COMPANY\CODE-WITH-ME\Github\CSHARP-PROGRAMMING-BASIC\C# Programming Basic\20 Namespace\bin\Debug\20 Namespace.exe
+D:\COMPANY\CODE-WITH-ME\Github\CSHARP-PROGRAMMING-BASIC\C# Programming Basic\20 Namespace\bin\Debug\20 Namespace.pdb
+D:\COMPANY\CODE-WITH-ME\Github\CSHARP-PROGRAMMING-BASIC\C# Programming Basic\20 Namespace\obj\Debug\20 Namespace.csproj.AssemblyReference.cache
+D:\COMPANY\CODE-WITH-ME\Github\CSHARP-PROGRAMMING-BASIC\C# Programming Basic\20 Namespace\obj\Debug\20 Namespace.csproj.CoreCompileInputs.cache
+D:\COMPANY\CODE-WITH-ME\Github\CSHARP-PROGRAMMING-BASIC\C# Programming Basic\20 Namespace\obj\Debug\20 Namespace.exe
+D:\COMPANY\CODE-WITH-ME\Github\CSHARP-PROGRAMMING-BASIC\C# Programming Basic\20 Namespace\obj\Debug\20 Namespace.pdb

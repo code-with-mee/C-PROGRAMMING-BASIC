@@ -1,0 +1,7 @@
+D:\COMPANY\CODE-WITH-ME\Github\CSHARP-PROGRAMMING-BASIC\C# Programming Basic\19 Classes\bin\Debug\19 Classes.exe.config
+D:\COMPANY\CODE-WITH-ME\Github\CSHARP-PROGRAMMING-BASIC\C# Programming Basic\19 Classes\bin\Debug\19 Classes.exe
+D:\COMPANY\CODE-WITH-ME\Github\CSHARP-PROGRAMMING-BASIC\C# Programming Basic\19 Classes\bin\Debug\19 Classes.pdb
+D:\COMPANY\CODE-WITH-ME\Github\CSHARP-PROGRAMMING-BASIC\C# Programming Basic\19 Classes\obj\Debug\19 Classes.csproj.AssemblyReference.cache
+D:\COMPANY\CODE-WITH-ME\Github\CSHARP-PROGRAMMING-BASIC\C# Programming Basic\19 Classes\obj\Debug\19 Classes.csproj.CoreCompileInputs.cache
+D:\COMPANY\CODE-WITH-ME\Github\CSHARP-PROGRAMMING-BASIC\C# Programming Basic\19 Classes\obj\Debug\19 Classes.exe
+D:\COMPANY\CODE-WITH-ME\Github\CSHARP-PROGRAMMING-BASIC\C# Programming Basic\19 Classes\obj\Debug\19 Classes.pdb
