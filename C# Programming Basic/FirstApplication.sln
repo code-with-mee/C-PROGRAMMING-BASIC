@@ -47,6 +47,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "20 Namespace", "20 Namespac
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "21 OperatorOverloading", "21 OperatorOverloading\21 OperatorOverloading.csproj", "{F6AD57CC-CE18-4BBF-857D-3FA86AE00637}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "22 Indexers", "22 Indexers\22 Indexers.csproj", "{07F186CE-11FF-46DC-B9E8-9A687021792D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "23 Inheritance", "23 Inheritance\23 Inheritance.csproj", "{C081F47B-3F6E-45FF-BA92-A063A3872562}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -141,6 +145,14 @@ Global
 		{F6AD57CC-CE18-4BBF-857D-3FA86AE00637}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F6AD57CC-CE18-4BBF-857D-3FA86AE00637}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F6AD57CC-CE18-4BBF-857D-3FA86AE00637}.Release|Any CPU.Build.0 = Release|Any CPU
+		{07F186CE-11FF-46DC-B9E8-9A687021792D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{07F186CE-11FF-46DC-B9E8-9A687021792D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{07F186CE-11FF-46DC-B9E8-9A687021792D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{07F186CE-11FF-46DC-B9E8-9A687021792D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C081F47B-3F6E-45FF-BA92-A063A3872562}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C081F47B-3F6E-45FF-BA92-A063A3872562}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C081F47B-3F6E-45FF-BA92-A063A3872562}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C081F47B-3F6E-45FF-BA92-A063A3872562}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
