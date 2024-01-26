@@ -1,0 +1,7 @@
+D:\COMPANY\CODE-WITH-ME\Github\CSHARP-PROGRAMMING-BASIC\C# Programming Basic\26 Struct\bin\Debug\26 Struct.exe.config
+D:\COMPANY\CODE-WITH-ME\Github\CSHARP-PROGRAMMING-BASIC\C# Programming Basic\26 Struct\bin\Debug\26 Struct.exe
+D:\COMPANY\CODE-WITH-ME\Github\CSHARP-PROGRAMMING-BASIC\C# Programming Basic\26 Struct\bin\Debug\26 Struct.pdb
+D:\COMPANY\CODE-WITH-ME\Github\CSHARP-PROGRAMMING-BASIC\C# Programming Basic\26 Struct\obj\Debug\26 Struct.csproj.AssemblyReference.cache
+D:\COMPANY\CODE-WITH-ME\Github\CSHARP-PROGRAMMING-BASIC\C# Programming Basic\26 Struct\obj\Debug\26 Struct.csproj.CoreCompileInputs.cache
+D:\COMPANY\CODE-WITH-ME\Github\CSHARP-PROGRAMMING-BASIC\C# Programming Basic\26 Struct\obj\Debug\26 Struct.exe
+D:\COMPANY\CODE-WITH-ME\Github\CSHARP-PROGRAMMING-BASIC\C# Programming Basic\26 Struct\obj\Debug\26 Struct.pdb
