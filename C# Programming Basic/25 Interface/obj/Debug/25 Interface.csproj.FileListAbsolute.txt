@@ -1,0 +1,7 @@
+D:\COMPANY\CODE-WITH-ME\Github\CSHARP-PROGRAMMING-BASIC\C# Programming Basic\25 Interface\bin\Debug\25 Interface.exe.config
+D:\COMPANY\CODE-WITH-ME\Github\CSHARP-PROGRAMMING-BASIC\C# Programming Basic\25 Interface\bin\Debug\25 Interface.exe
+D:\COMPANY\CODE-WITH-ME\Github\CSHARP-PROGRAMMING-BASIC\C# Programming Basic\25 Interface\bin\Debug\25 Interface.pdb
+D:\COMPANY\CODE-WITH-ME\Github\CSHARP-PROGRAMMING-BASIC\C# Programming Basic\25 Interface\obj\Debug\25 Interface.csproj.AssemblyReference.cache
+D:\COMPANY\CODE-WITH-ME\Github\CSHARP-PROGRAMMING-BASIC\C# Programming Basic\25 Interface\obj\Debug\25 Interface.csproj.CoreCompileInputs.cache
+D:\COMPANY\CODE-WITH-ME\Github\CSHARP-PROGRAMMING-BASIC\C# Programming Basic\25 Interface\obj\Debug\25 Interface.exe
+D:\COMPANY\CODE-WITH-ME\Github\CSHARP-PROGRAMMING-BASIC\C# Programming Basic\25 Interface\obj\Debug\25 Interface.pdb
