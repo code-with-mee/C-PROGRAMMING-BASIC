@@ -1,0 +1,7 @@
+D:\COMPANY\CODE-WITH-ME\Github\CSHARP-PROGRAMMING-BASIC\C# Programming Basic\24 AbstractClass\bin\Debug\24 AbstractClass.exe.config
+D:\COMPANY\CODE-WITH-ME\Github\CSHARP-PROGRAMMING-BASIC\C# Programming Basic\24 AbstractClass\bin\Debug\24 AbstractClass.exe
+D:\COMPANY\CODE-WITH-ME\Github\CSHARP-PROGRAMMING-BASIC\C# Programming Basic\24 AbstractClass\bin\Debug\24 AbstractClass.pdb
+D:\COMPANY\CODE-WITH-ME\Github\CSHARP-PROGRAMMING-BASIC\C# Programming Basic\24 AbstractClass\obj\Debug\24 AbstractClass.csproj.AssemblyReference.cache
+D:\COMPANY\CODE-WITH-ME\Github\CSHARP-PROGRAMMING-BASIC\C# Programming Basic\24 AbstractClass\obj\Debug\24 AbstractClass.csproj.CoreCompileInputs.cache
+D:\COMPANY\CODE-WITH-ME\Github\CSHARP-PROGRAMMING-BASIC\C# Programming Basic\24 AbstractClass\obj\Debug\24 AbstractClass.exe
+D:\COMPANY\CODE-WITH-ME\Github\CSHARP-PROGRAMMING-BASIC\C# Programming Basic\24 AbstractClass\obj\Debug\24 AbstractClass.pdb
